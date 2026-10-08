@@ -22,7 +22,7 @@
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-native": "0.77.1",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.21.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
