@@ -1515,10 +1515,10 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
-"@react-native-picker/picker@2.7.7":
-  version "2.7.7"
-  resolved "https://registry.yarnpkg.com/@react-native-picker/picker/-/picker-2.7.7.tgz#6e19c3a72a482be015f5194794e6c14efe8762e8"
-  integrity sha512-CTHthVmx8ujlH/u5AnxLQfsheh/DoEbo+Kbx0HGTlbKVLC1eZ4Kr9jXIIUcwB7JEgOXifdZIPQCsoTc/7GQ0ag==
+"@react-native-picker/picker@2.13.1":
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/@react-native-picker/picker/-/picker-2.13.1.tgz#b190b49ff5a12372950b4e0b5ba2ae2e087734cb"
+  integrity sha512-Ncw8btZXcz4lSVKQrumQPLW/eb86/g5nQbpZIdPVzNvRunAQMJ8osdtn13LhuTel25JI8vH6gshcHFXFf92iNg==
 
 "@react-native/assets-registry@0.77.1":
   version "0.77.1"
